@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80e58713a4054b57a9dabd37104fa320, type: 3}
   m_Name: CommonLevelConfig
   m_EditorClassIdentifier: 
-  baseSpeed: 5
+  baseSpeed: 9
   distanceToSpeedImpact: 0.1
   spawnAreaFactor: {x: 1, y: 0.7}
